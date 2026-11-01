@@ -17,12 +17,6 @@ Aplikacija prikazuje osnovne gradnike uporabniškega vmesnika in odziv na dogodk
 
 Vsa besedila so shranjena v `strings.xml`, postavitev pa je izdelana s `ConstraintLayout`.
 
-## Zaslonske slike
-
-| Začetni prikaz | Toast | Snackbar (a) | Snackbar (b) |
-|---|---|---|---|
-| ![Začetni prikaz](zacetni_prikaz.png) | ![Toast](toast.png) | ![Snackbar a](snackbar_a.png) | ![Snackbar b](snackbar_b.png) |
-
 ## Struktura projekta
 
 | Datoteka | Opis |
