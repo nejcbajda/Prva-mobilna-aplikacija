@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">prva</string>
     <string name="title">Mobile application!</string>
-    <string name="subtitle">Mobilna aplikacija!</string>
+    <string name="subtitle">Hello World!</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="terms">Strinjam se s pogoji uporabe</string>
